@@ -1,4 +1,4 @@
-<img width="100%" height="50%" src="/assets/imagem.png"><br>
+ <img width="100%" height="50%" src="/assets/imagem.png"><br>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aclaricenascimento&bg_color=0d1117&color=cc04d4&line=bf4abe&point=ff90fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -27,11 +27,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/
  
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
  <img align="left" title="Javascript" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>         
-<a/>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
- <img align="left" title="Typescript" alt="Typescript" width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>      
 <a/>
 
 <a href="https://sass-lang.com/" target="_blank">
