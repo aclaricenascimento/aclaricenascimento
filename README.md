@@ -45,11 +45,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 <a/>
 
 ## Studying in this moment:
-<a href="https://react.dev/" target="_blank">
- <img align="left" title="React" alt="React" width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<a/>
- 
 <a href="https://angular.dev/" target="_blank">
  <img align="left" title="React" alt="React" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
@@ -58,5 +53,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-o
 <a href="https://www.oracle.com/br/java/" target="_blank">
  <img align="left" title="Java" alt="Java" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<a/>
+
+<a href="https://www.oracle.com/br/" target="_blank">
+ <img align="left" title="Oracle" alt="Oracle" width="60px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
 <a/>
 
